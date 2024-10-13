@@ -2,11 +2,11 @@
 
 <!-- Snek -->   
 <p align="center">
-<img width="500" src="https://raw.githubusercontent.com/PrzemyslawSwiderski/PrzemyslawSwiderski/output/github-contribution-grid-snake-dark.svg" />
+<img width="700" src="https://raw.githubusercontent.com/PrzemyslawSwiderski/PrzemyslawSwiderski/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrzemyslawSwiderski&theme=github_dark)
+<p align="center">  
+<img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrzemyslawSwiderski&theme=github_dark" />
 </p>
 
 <h2 align="center">
