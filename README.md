@@ -5,8 +5,12 @@
 <img width="500" src="https://raw.githubusercontent.com/PrzemyslawSwiderski/PrzemyslawSwiderski/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrzemyslawSwiderski&theme=github_dark)
+</p>
+
 <h2 align="center">
-<a href="https://przemyslawswiderski.github.io/" title="My Website">My Website</a>
+<a href="https://blog.pswidersk.com/" title="My Website">My Website</a>
 </h2>
 
 Socials:
