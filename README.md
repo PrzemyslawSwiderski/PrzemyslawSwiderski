@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">  
-<img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrzemyslawSwiderski&theme=github_dark" />
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrzemyslawSwiderski&theme=github_dark" />
 </p>
 
 <h2 align="center">
