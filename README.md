@@ -9,9 +9,15 @@
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrzemyslawSwiderski&theme=github_dark" />
 </p>
 
-<h2 align="center">
-<a href="https://blog.pswidersk.com/" title="My Website">My Website</a>
-</h2>
+<h3 align="center">
+<a href="https://blog.pswidersk.com/" title="My Blog">My Blog</a>
+</h3>
+
+<br/>
+
+<h3 align="center">
+<a href="https://github.com/PrzemyslawSwiderski/pswidersk-cv/releases/download/latest/Przemyslaw_Swiderski_CV.pdf" title="CV">CV</a>
+</h3>
 
 Socials:
 * <a target="_blank" href="https://github.com/PrzemyslawSwiderski"><img src="https://img.shields.io/github/followers/PrzemyslawSwiderski?style=social" /></a>
